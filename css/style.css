@@ -78,6 +78,7 @@ a, a:hover {
     -ms-background-size: 2px;
 	text-align:center;
 	padding: 3em 0;
+	    height: 100vh;
 	max-height: -webkit-fill-available;
 }
 h1 {
